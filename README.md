@@ -1,7 +1,7 @@
 # BaseAdmin
 [![Latest Version on Packagist](https://img.shields.io/github/issues/ThallesTeodoro/BaseAdmin.svg?style=flat-square)](https://packagist.org/packages/thalles/baseadmin)
 [![Total Downloads](https://img.shields.io/github/stars/ThallesTeodoro/BaseAdmin.svg?style=flat-square)](https://packagist.org/packages/thalles/baseadmin)
-## A tool to setup a admin site with auth and user crud, using adminlte!
+## A tool to setup an admin site with auth and user crud, using adminlte!
 
 ### **Requirements**
 - PHP >= 7.2.5
